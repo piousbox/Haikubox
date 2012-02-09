@@ -1,0 +1,35 @@
+.related .note {
+    border: 1px solid black;
+    margin: 0 0 1em 0;
+}
+.actions {
+    display: inline;
+}
+div.actions ul {
+    display: inline;
+}
+div.actions li {
+    margin: 0;
+}
+#RowSearchForm * {
+    display: inline;
+}
+#RowSearchForm #RowSearch {
+    width: 100px;
+    float: left;
+    clear: none;
+}
+#RowSearchForm .checkbox {
+    float: left;
+    background: white;
+    width: 300px;
+    clear: both;
+    margin: 0;
+}
+#RowSearchForm .submit {
+    clear: none;
+    margin: 0;
+}
+#RowSearchForm #options_container {
+    display: none;
+}
